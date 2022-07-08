@@ -1,5 +1,5 @@
 {
-  "homepage": "http://harverseIT.github.io/harverseWebsite",
+
   "name": "main",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run buid",
     "deploy": "gh-pages -D build",
     "build": "react-scripts build",
     "test": "react-scripts test",
