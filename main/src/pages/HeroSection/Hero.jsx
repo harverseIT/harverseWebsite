@@ -27,9 +27,6 @@ export default function HeroSection() {
                         <p className='flex px-4 py-2 text-slate-500'> <img src={briket} className='h-6' alt='icon' /> <span className='mx-2'>Briquettes</span></p>
                     </div>
                 </div>
-                <div className="flex flex-col justify-center md:items-start w-3/4 px-2 py-8">
-                    <button className=" text-sm bg-transparent hover:bg-darkGreen text-gray-800 hover:text-white py-2 px-4 border border-gray-800 hover:border-transparent rounded font-bold">GET FREE SAMPLES NOW!</button>
-                </div>
             </div>
         </div>
     );
